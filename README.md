@@ -1,4 +1,6 @@
-Is Bankasi Doviz Botu
+# Is Bankasi Doviz Botu
 
--> Canli Doviz verileri
--> Alim ve satim icin sinirlar verme(Alarm kurma)
+## -> Canli Doviz verileri
+## -> Alim ve satim icin sinirlar verme(Alarm kurma)
+
+
